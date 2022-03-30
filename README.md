@@ -1,4 +1,4 @@
-# BazelForRasperrryPi
+# BazelForRaspberryPi
 Bazel builds for the Raspberry Pi
 
 Current versions:
